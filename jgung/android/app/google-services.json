@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290711265716",
+    "project_id": "renttani-app-2026-bf6f3",
+    "storage_bucket": "renttani-app-2026-bf6f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290711265716:android:3f8c79c1d83286fa1692e1",
+        "android_client_info": {
+          "package_name": "com.example.renttani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290711265716-3h7g0o4otshgi8vp74tubfp7a18597g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renttani",
+            "certificate_hash": "6c38e68806485d90e2c1d78cfc722b733c627141"
+          }
+        },
+        {
+          "client_id": "290711265716-u12v6ccesuvqpnvk2nt6rd3cgu47lpev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renttani",
+            "certificate_hash": "9484730344a775cab14c17eb03c1c5def24fee40"
+          }
+        },
+        {
+          "client_id": "290711265716-q3brpslnbrlpulme5eaq6obnppuh0ob7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7cSJUMTBITmhyFNxQfj0Wr9wR-iOim4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290711265716-q3brpslnbrlpulme5eaq6obnppuh0ob7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
